@@ -1,12 +1,6 @@
+# sobre mim
 
 - 👋 olá meu é @erosuzin
- meu contato de [email](lucas.suzin@escola.pr.gov.br)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-erosuzin/erosuzin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👍 meu contato de [email](lucas.suzin@escola.pr.gov.br)
+- 👀 Eu estou interessado em aprender a programar novas línguagens.
+- 🌱 Eu estou aprendendo a programar recentemente a línguagem de JavaScript e Scratch 
